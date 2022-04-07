@@ -1,24 +1,23 @@
-# weather
+<h1>Tempo 🌩️ </h1>
 
-## Project setup
-```
-npm install
-```
+<h2>Descrição 📕</h2>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<p>Um pequeno Projeto feito em Vue.js 2 utilizando o Vue cli, em que uma api é consumida.</p>
+<p>Principal objetivo: Informar a temperatura do local procurado</p>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<h2>Tecnologias 👀 </h2>
 
-### Lints and fixes files
-```
-npm run lint
-```
+- (Vue.js 2)[https://vuejs.org/guide/introduction.html#what-is-vue]
+- (Vue Cli)[https://cli.vuejs.org/]
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<h2>Dev 🤓 </h2>
+
+<p>Carlos Eduardo Freitas Amorim</p>
+
+<h3>projeto original</h3>
+
+[https://www.youtube.com/watch?v=JLc-hWsPTUY&t=996s]
+
+
+
+
